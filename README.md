@@ -1,5 +1,5 @@
 # hangman
-A CLI implementation of the classic hangman game
+A CLI implementation of the classic hangman game.
 
 This project was completed for the [edX MIT 6.00.1x Intro to Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info) course.
 
